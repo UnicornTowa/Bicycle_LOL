@@ -1049,3 +1049,33 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.11-08.57.42:993][188]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2021.12.11-08.57.44:920][297]SourceControl: Source control is disabled
 [2021.12.11-08.58.00:462][959]LogSlate: Window 'Source Control Login' being destroyed
+[2021.12.11-09.06.39:064][955]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.11-09.06.39:064][955]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.11-09.06.45:527][247]LogSlate: Window 'Source Control Login' being destroyed
+[2021.12.11-09.06.48:670][382]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.11-09.06.54:867][729]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.11-09.06.54:867][729]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdvBP/Blueprints/ChaosBikeBlueprint.ChaosBikeBlueprint
+[2021.12.11-09.06.55:756][729]LogBlueprintEditor: Perf: 0.9 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.12.11-09.06.55:756][729]LogBlueprintEditor: Perf: 0.7 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.12.11-09.06.55:806][729]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 127 classes and 0 folders.
+[2021.12.11-09.06.56:753][729]LogStaticMesh: StaticMesh /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox should be resaved to improve async compilation performance.
+[2021.12.11-09.06.56:854][729]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.11-09.06.56:858][729]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.11-09.07.07:166][279]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.11-09.07.07:166][279]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.11-09.07.30:393][572]LogSavePackage: Moving '../../../../../../Users/tosha/Downloads/Project_saturday/Saved/ChaosBikeBlueprint64AF29AD44C36E4AAC1E4B8CE84224C9.tmp' to '../../../../../../Users/tosha/Downloads/Project_saturday/Content/VehicleAdvBP/Blueprints/ChaosBikeBlueprint.uasset'
+[2021.12.11-09.07.30:418][572]AssetCheck: New page: Asset Save: ChaosBikeBlueprint
+[2021.12.11-09.07.30:418][572]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/ChaosBikeBlueprint.ChaosBikeBlueprint
+[2021.12.11-09.07.31:399][628]BlueprintLog: New page: Compile ChaosBikeBlueprint
+[2021.12.11-09.07.31:530][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.12.11-09.08.31:761][401]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.11-09.08.41:104][898]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.EffectType'.'
+[2021.12.11-09.08.49:810][328]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.11-09.08.49:837][328]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.11-09.08.52:609][495]LogContentBrowser: Attempting asset rename: NewFolder -> nothing
+[2021.12.11-09.08.52:610][495]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.11-09.08.55:826][663]LogSavePackage: Moving '../../../../../../Users/tosha/Downloads/Project_saturday/Saved/ChaosBikeBlueprint02A1A3FE4F1D7A585833388B91F8C64E.tmp' to '../../../../../../Users/tosha/Downloads/Project_saturday/Content/VehicleAdvBP/Blueprints/ChaosBikeBlueprint.uasset'
+[2021.12.11-09.08.55:844][663]AssetCheck: New page: Asset Save: ChaosBikeBlueprint
+[2021.12.11-09.08.55:844][663]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/ChaosBikeBlueprint.ChaosBikeBlueprint
+[2021.12.11-09.11.05:053][329]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.11-09.11.05:053][329]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
